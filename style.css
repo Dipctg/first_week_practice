@@ -1,0 +1,29 @@
+body{
+    font-family: 'Ropa Sans', sans-serif;
+
+}
+
+.titel{
+    border: 2px solid red;
+    border-radius: 5px;
+   text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.span_h1_body{
+    color:blue ;
+}
+
+
+
+.navigation a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
